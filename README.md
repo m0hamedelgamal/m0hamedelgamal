@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hey 👋, I'm Mohamed 
 
-<!--
-**mohamedelgaml/mohamedelgaml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="www.linkedin.com/in/mohamedelgamal-27">
+  <img align="left" alt="Mohamed Elgamal's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<br>
+Hey, I'm Mohamed, I am software Testing Engineer seeking always for new career challenges where I can gain experience, 
+knowledge and learn new techniques then I can utilize all of these to ensure quality over software products and all development 
+cycle processes to deliver the best product with the highest quality. 
+</br>
 
 Here are some ideas to get you started:
 
