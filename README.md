@@ -6,5 +6,10 @@
 Hey, **I'm Mohamed**, I am software Testing Engineer seeking always for learming new tecnologies and tools , interested in programing and test automation and devops Tools. 
 </br>
 
-- 🌱 I’m currently learning Test auomation with diffrent tools (Selenium , Cypress )
--->
+- 🌱 I’m currently learning Test auomation with diffrent tools (Selenium , Cypress ).
+**Languages and Tools:**  
+
+
+![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=mohamedelgaml&show_icons=true&hide_border=true)
+![Mohamed's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelgaml&show_icons=true&hide_border=true")
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mohamedelgaml.mohamedelgaml) -->
