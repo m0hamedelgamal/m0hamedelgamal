@@ -1,12 +1,8 @@
-### Hey 👋, I'm Mohamed 
+### 👋 Welcome to my profile 
 
-  <img align="left" alt="Mohamed Elgamal's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<br>
-Hey, **I'm Mohamed**, I am software Testing Engineer seeking always for learming new tecnologies and tools , interested in programing and test automation and devops Tools. 
-</br>
 
-- 🌱 I’m currently learning Test auomation with diffrent tools (Selenium , Cypress ).
-**Languages and Tools:**  
+Hi, I am mohamed a software testing engineer with 7+ years of experience in the software testing . I have a strong understanding of software testing principles and methodologies,proficient in a variety of testing tools and techniques. I am also an excellent communicator and I am able to work effectively with both technical and non-technical stakeholders.
+  
 
 
 ## 🛠 Skills
@@ -19,10 +15,8 @@ Hey, **I'm Mohamed**, I am software Testing Engineer seeking always for learming
 
 
 ## 🔗 Contact
-<a href="https://www.linkedin.com/in/mohamedelgamal-27/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elgamal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
-<a href="mailto:mohamed.ali.elgamal@gmail.com" >
-  <img src="https://img.shields.io/badge/-youremail@gmail.com-0077B5?style=for-the-badge&logo=Gmail&logoColor=red" />
+<a href="https://www.linkedin.com/in/mohamedelgamal-27/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elgamal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>  <a href="mailto:mohamed.ali.elgamal@gmail.com" >
+  <img src="https://img.shields.io/badge/Mohamed%20Elgamal-000001?style=for-the-badge&logo=Gmail&logoColor=red" />
 </a>
 
 ## 🧰 &nbsp;My toolbox
