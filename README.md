@@ -1,7 +1,7 @@
 ### 👋 Welcome 
 
 
-Hi, I am mohamed a software testing engineer with 7+ years of experience in the software testing . I have a strong understanding of software testing principles and methodologies,proficient in a variety of testing tools and techniques. I am also an excellent communicator and I am able to work effectively with both technical and non-technical stakeholders.
+Hi, I am Mohamed a software testing engineer with 7+ years of experience in software testing. I have a strong understanding of software testing principles and methodologies, proficient in a variety of testing tools and techniques. I am also an excellent communicator and I am able to work effectively with both technical and non-technical stakeholders.
   
 
 
