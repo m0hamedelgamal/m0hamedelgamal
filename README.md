@@ -21,8 +21,8 @@ Hey, **I'm Mohamed**, I am software Testing Engineer seeking always for learming
 ## 🔗 Contact
 <a href="https://www.linkedin.com/in/mohamedelgamal-27/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elgamal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-<a href="mohamed.ali.elgamal@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Mohamed%20Elgamal-0077B5?style=for-the-badge&logo=Gmail&logoColor=white" />
+<a href="mailto:mohamed.ali.elgamal@gmail.com" >
+  <img src="https://img.shields.io/badge/-youremail@gmail.com-0077B5?style=for-the-badge&logo=Gmail&logoColor=red" />
 </a>
 
 ## 🧰 &nbsp;My toolbox
