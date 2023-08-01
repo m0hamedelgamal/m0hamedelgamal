@@ -17,6 +17,11 @@ Hey, **I'm Mohamed**, I am software Testing Engineer seeking always for learming
 * version control (Git)
 * Test Management, Reporting 
 
+
+## 🔗 Contact
+<a href="https://www.linkedin.com/in/mohamedelgamal-27/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Elgamal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
+
 ## 🧰 &nbsp;My toolbox
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,13 +35,10 @@ Hey, **I'm Mohamed**, I am software Testing Engineer seeking always for learming
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=mohamedelgaml&show_icons=true&hide_border=true)
-![Mohamed's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelgaml&show_icons=true&hide_border=true")
 
-## 🔗 Contact
+![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=m0hamedelgamal&show_icons=true&hide_border=true)
+![Mohamed's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=m0hamedelgamal&show_icons=true&hide_border=true")
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamedelgamal-27)
-![Email](https://img.shields.io/badge/email-mohamed.ali.elgamal@gmail.com-blue?style=for-the-badge)
 
 
 
