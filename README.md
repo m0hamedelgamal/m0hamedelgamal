@@ -32,9 +32,8 @@ Hi, I am Mohamed a software testing engineer with 7+ years of experience in soft
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=m0hamedelgamal&show_icons=true&hide_border=true)
-![Mohamed's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=m0hamedelgamal&show_icons=true&hide_border=true")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0hamedelgamal&theme=algolia&show_icons=true)
+![Mohamed's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=m0hamedelgamal&theme=algolia&show_icons=true&hide_border=true") 
 
 
 
