@@ -33,7 +33,7 @@ Hi, I am Mohamed a software testing engineer with 7+ years of experience in soft
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0hamedelgamal&theme=algolia&show_icons=true)
-![Mohamed's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=m0hamedelgamal&theme=algolia&show_icons=true&hide_border=true") 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0hamedelgamal&&theme=algolia&layout=compact&langs_count=6)
 
 
 
